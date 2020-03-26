@@ -1,6 +1,0 @@
-pink
-red
-blue
-white
-black
-orange
