@@ -2,3 +2,4 @@ Corolla
 Camry
 Yaris
 Avalon
+4Runner
